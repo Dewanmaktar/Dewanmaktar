@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Amazon AWS, Python, Android Studio, and Data Analysis**
 - 💡 My goal is to become a **Cloud Engineer** in top tech companies like **Nvidia** or **IBM**
 - 🌐 Working on: **University Helper Website** to assist students with resources & accommodation
-- 📫 Reach me at: **dewanmaktar@gmail.com** | 📱 +91-8822341630  
+- 📫 Reach me at: 📱 +91-8822341630  
 - 🧳 Hobbies: **Traveling** 🧭 and exploring **gadgets** 📱
 
 ---
