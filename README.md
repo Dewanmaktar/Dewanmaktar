@@ -80,7 +80,7 @@
 
 ### 🤝 Let's Connect
 <p>
-  <a href="https://www.linkedin.com/in/dewan-mohsin-aktar">
+  <a href="https://www.linkedin.com/in/dewan-mohsin-aktar-85a17018a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dewanaktar128@outlook.in">
