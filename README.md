@@ -31,14 +31,6 @@
 
 ---
 
-### 📂 Projects
-- 🔗 [University Helper Website](https://github.com/Dewanmaktar/University_helper.git)
-- 📊 **Electric Vehicles Market Size Analysis** – Python-based Data Analytics project
-- 🌐 **Responsive Portfolio Website** with 3D effects, dark mode, and animation
-- 📱 **Mobile App (In progress):** Subscription & Expense Tracker App with Debt/Wealth Manager
-
----
-
 ### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dewanmaktar&show_icons=true&theme=tokyonight" alt="Dewan's stats" />
@@ -52,7 +44,7 @@
   <a href="https://www.linkedin.com/in/dewanmaktar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dewanmaktar@gmail.com">
+  <a href="mailto:dewanmaktar128@outlook.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/dewanmaktar" target="_blank">
