@@ -13,7 +13,7 @@
 - 📍 From **Barpeta, Assam, India**
 - 🎓 **B.Tech in Computer Science & Engineering** (2022–2026) at *The Assam Kaziranga University*
 - 📊 **GPA:** `7.57 / 10`
-- 🔭 Currently working on **DevOps Projects** & **University Helper Website**
+- 🔭 Currently working on **DevOps Projects**
 - 🌱 Actively learning **Docker, Kubernetes, Jenkins, Advanced Linux**
 - 🛠 Interests: **Infrastructure as Code (IaC)** | **Cloud Security** | **Performance Optimization**
 - 🏆 Recipient of **Reliance Foundation Undergraduate Scholarship**
