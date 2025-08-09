@@ -39,14 +39,11 @@
 
 ## 🚀 Projects
 
-### 1️⃣ [Scalable Web App Deployment](https://github.com/your-repo)
+### [Scalable Web App Deployment](https://github.com/your-repo)
 - **Tech:** AWS EC2, S3, VPC, NGINX  
 - Configured **custom VPC** for security, load balancing, and static hosting in S3  
 <img src="https://via.placeholder.com/500x250.png?text=AWS+Web+App+Deployment" width="500">
 
-### 2️⃣ [University Helper Website](https://github.com/your-repo)
-- Platform for **downloading question papers**, **finding room rentals**, and more (Under Development)  
-<img src="https://via.placeholder.com/500x250.png?text=University+Helper+Website" width="500">
 
 ---
 
